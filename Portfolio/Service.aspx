@@ -10,8 +10,10 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <div class="container">
          <div class="row">
-              <div class=" col-md-offset-1">
-             <h1>My skills</h1>
+              
+             <h1><center>My skills</center</h1>
+                  <hr style="width: 100%; color: black; height: 3px; background-color:black;" />
+             <div style="padding-left:6%;">
                           <div class="c100 p100 big">
                     <span>HTML</span>
                     <div class="slice">

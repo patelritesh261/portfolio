@@ -16,8 +16,8 @@
       <img align="left" class="fb-image-profile thumbnail" src="Assets/images/1.jpg" alt="Profile image example"/>
       <div class="fb-profile-text">
          <h1>Ritesh Patel</h1>
-         <p>Web Developer</p>
-          <p style="padding-left:60px; ">I am pursing computer programming at <a href="http://www.georgiancollege.ca/"> Georgian college</a>.I worked as junior .net developer at <a href="http://www.infotronicx.com"> DUPAT INFOTRONICX PVT LMT</a>. I have done 4 group assignments and 10 indivisual assignment while pursuing my study through Georgian college.Apart from codding, I like to discover new places,to be have good health,to do excercise. I like to watch movies,play sports. </p>
+         <p style=" font-size:18px; ">Web Developer</p>
+          <p style="padding-left:60px; font-size:18px; ">I am pursing computer programming at <a href="http://www.georgiancollege.ca/"> Georgian college</a>.I worked as junior .net developer at <a href="http://www.infotronicx.com"> DUPAT INFOTRONICX PVT LMT</a>. I have done 4 group assignments and 10 indivisual assignment while pursuing my study through Georgian college.Apart from codding, I like to discover new places,to be have good health,to do excercise. I like to watch movies,play sports. </p>
       </div>
    </div>
     </div>

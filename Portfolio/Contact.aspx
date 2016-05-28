@@ -5,8 +5,10 @@
      <div class="container">
           <div class="row">
                  <div class=" col-md-6">
-        <h1>Contact Page</h1>
-       
+        <h1>Contact Me</h1>
+        
+                 <hr style="width: 100%; color: black; height: 3px; background-color:black;" />
+           
          <form role="form" method="post" action="Contact.aspx">
              <div class="form-group">
                         <div class="col-md-3">

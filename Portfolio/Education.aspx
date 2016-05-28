@@ -9,7 +9,9 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <div class="container">
         <div class="row">
-           <div class=" col-md-offset-1">
+           <h1><center>My Education</center></h1>
+                 <hr style="width: 100%; color: black; height: 3px; background-color:black;" />
+             <div style="padding-left:10%;">
             <div class="col-md-3  card">
                 <h4>Higher Secondory School</h4>
                
