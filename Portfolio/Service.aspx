@@ -14,13 +14,15 @@
              <h1><center>My skills</center</h1>
                   <hr style="width: 100%; color: black; height: 3px; background-color:black;" />
              <div style="padding-left:6%;">
-                          <div class="c100 p100 big">
-                    <span>HTML</span>
-                    <div class="slice">
-                        <div class="bar"></div>
-                        <div class="fill"></div>
-                    </div>
-                </div>
+                   <!--  start skill circle -->
+                 <div class="c100 p100 big">
+                     <span>HTML</span>
+                     <div class="slice">
+                         <div class="bar"></div>
+                         <div class="fill"></div>
+                     </div>
+                 </div>
+                   <!--  end skill circle -->
 				 <div class="c100 p90 big">
                     <span>CSS</span>
                     <div class="slice">
