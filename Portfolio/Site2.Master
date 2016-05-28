@@ -1,9 +1,9 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Portfolio.Site1" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="Portfolio.Site2" %>
  <%--
- * @File name : Master page 1
+ * @File name : Master page 2
  * @Author : Ritesh Patel
  * @Website name : portfolio(http://portfolio-ritz.azurewebsites.net/)
- * @File description : this is master page which contain common contents of different child pages.
+ * @File description : this is master page which contain common contents of contact page.
  * 
  * --%>
 <!DOCTYPE html>

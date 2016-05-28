@@ -1,5 +1,11 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Portfolio.Default" %>
-
+ <%--
+ *@File name : Default page  
+ * @Author : Ritesh Patel
+ * @Website name : portfolio(http://portfolio-ritz.azurewebsites.net/)
+ * @File description : This page Home page of site.
+ * 
+ * --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="image">
 

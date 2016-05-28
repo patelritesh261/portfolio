@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="Education Page" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Education.aspx.cs" Inherits="Portfolio.Education" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-</asp:Content>
+ <%--
+ *@File name : Education page  
+ * @Author : Ritesh Patel
+ * @Website name : portfolio(http://portfolio-ritz.azurewebsites.net/)
+ * @File description : This page shows my acedamic records.
+ * 
+ * --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <div class="container">
         <div class="row">

@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="About Page" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="about.aspx.cs" Inherits="Portfolio.about" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-</asp:Content>
+ <%--
+ *@File name : About page  
+ * @Author : Ritesh Patel
+ * @Website name : portfolio(http://portfolio-ritz.azurewebsites.net/)
+ * @File description : It provides information about me.
+ * 
+ * --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <div class="container ">
 <div class="row">

@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="Project Page" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="Portfolio.Projects" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-</asp:Content>
+ <%--
+ *@File name : Project page  
+ * @Author : Ritesh Patel
+ * @Website name : portfolio(http://portfolio-ritz.azurewebsites.net/)
+ * @File description : This page shows my project which made during my acedamic section.
+ * 
+ * --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
       <div class="container">
         <div class="row">

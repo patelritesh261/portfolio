@@ -4,7 +4,13 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-
+/*
+ * @File name : Master page 1
+ * @Author : Ritesh Patel
+ * @Website name : portfolio(http://portfolio-ritz.azurewebsites.net/)
+ * @File description : this is master page which contain common contents of different child pages.
+ * 
+ * */
 namespace Portfolio
 {
     public partial class Site1 : System.Web.UI.MasterPage

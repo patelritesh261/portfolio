@@ -9,7 +9,12 @@ using System.Net.Mime;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-
+/**
+* Contact class for contact Page
+*
+* @class Contact
+* 
+*/
 namespace Portfolio
 {
     public partial class Contact : System.Web.UI.Page
@@ -22,9 +27,11 @@ namespace Portfolio
         {
             try
             {
-                /**
-           * Create mehod for sending mail
-           * method return boolean
+            /**
+           *Mehod for sending mail
+           * 
+           * @method send_mail
+           * @retyrn {boolean} return true on success
            * */
                 txtMessage.Text = "ASDF";
                 Boolean flag = send_mail();
@@ -46,34 +53,7 @@ namespace Portfolio
         {
             Boolean flag = false;
 
-            /* try
-             {
-                 string fromaddr = "testwebritz@gmail.com";
-                 string toaddr = txtEmail.Text.ToString();//TO ADDRESS HERE
-                 string password = "testritzweb";
-
-
-                 MailMessage msg = new MailMessage();
-                 msg.Subject = "Contact from portfolio";
-                 msg.From = new MailAddress(fromaddr);
-                 msg.IsBodyHtml = true;
-                 msg.Body = "  Hi <b>" + txtfirstname.Text.ToString().Trim() + "</b> <br/><br/> Thank you for reviewing my <b>  portfolio </b><br/><br/> thank you. ";
-
-                 msg.To.Add(new MailAddress(toaddr));
-                 SmtpClient smtp = new SmtpClient();
-                 smtp.Host = "smtp.gmail.com";
-                 smtp.Port = 25;
-                 smtp.UseDefaultCredentials = true;
-                 smtp.EnableSsl = true;
-                 NetworkCredential nc = new NetworkCredential(fromaddr, password);
-                 smtp.Credentials = nc;
-                 smtp.Send(msg);
-                 flag = true;
-             }
-             catch (Exception ex)
-             {
-                 Response.Write("Could not send the e-mail - error: " + ex.Message);
-             }*/
+           
 
             // Create the email object first, then add the properties.
             try
