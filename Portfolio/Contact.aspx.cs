@@ -33,7 +33,7 @@ namespace Portfolio
            * @method send_mail
            * @retyrn {boolean} return true on success
            * */
-                txtMessage.Text = "ASDF";
+              
                 Boolean flag = send_mail();
                 if (flag)
                 {
@@ -60,12 +60,12 @@ namespace Portfolio
             {
                 SendGridMessage myMessage = new SendGridMessage();
                 myMessage.AddTo(txtEmail.Text.ToString());
-                myMessage.From = new MailAddress("patelritesh261@gmail.com", "Ritesh Patel");
+                myMessage.From = new MailAddress("testwebritz@gmail.com", "Ritesh Patel");
                 myMessage.Subject = "Contact from portfolio";
                 myMessage.Text = " Hi " + txtfirstname.Text.ToString().Trim() + "\n\n Thank you for reviewing my portfolio\n\n Thank you. ";
 
                 // Create a Web transport, using API Key
-                var transportWeb = new Web("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");
+                var transportWeb = new Web("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");
 
                 // Send the email.
                 transportWeb.DeliverAsync(myMessage);
