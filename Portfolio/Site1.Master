@@ -12,7 +12,7 @@
 <html>
 <head runat="server">
     <title></title>
-
+    <link rel="shortcut icon" type="image/png" href="Assets/images/logo.png"/>
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/font-awesome.min.css" rel="stylesheet" />
