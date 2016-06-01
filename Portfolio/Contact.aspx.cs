@@ -9,12 +9,13 @@ using System.Net.Mime;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-/**
-* Contact class for contact Page
-*
-* @class Contact
-* 
-*/
+/*
+* @File name : Contact 
+* @Author : Ritesh Patel
+* @Website name : portfolio(http://portfolio-ritz.azurewebsites.net/)
+* @File description : Contact form and google map 
+* @send mail through sendgrid
+* */
 namespace Portfolio
 {
     public partial class Contact : System.Web.UI.Page
