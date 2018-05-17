@@ -33,10 +33,10 @@
                     <h4><a href="#" data-toggle="modal" data-target="#myModalJava">Java</a></h4>
                 </div>
                 <div class="col-md-3 card">
-                    <h4>Employee Management</h4>
-
-                    <img src="Assets/images/project.png" />
-                    <h4><a href="#" data-toggle="modal" data-target="#myModalJava1">Java</a></h4>
+                    <!--<h4>Employee Management</h4> -->
+                    <h4>Your Birthday Gift</h4>
+                    <img src="Assets/images/result.jpg" />
+                    <h4><a href="#" data-toggle="modal" data-target="#myModalJava1">Jaan I did it</a></h4>
                 </div>
                 <div class="col-md-3 card">
                     <h4>Dynamic Content Template</h4>
